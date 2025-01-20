@@ -17,12 +17,6 @@ class SettingsSeeder extends Seeder
             'cnpj'      => '99.999.999/9999-99',
             'about'     => 'Somos uma empresa de software, na qual prezamos pela qualidade e satisfação do cliente.',
             'email'     => 'google@gmail.com',
-            'x'         => 'x.com',
-            'instagram' => 'instagram.com',
-            'facebook'  => 'facebook.com',
-            'linkedin'  => 'linkedin.com',
-            'youtube'   => 'youtube.com',
-            'whatsapp'  => 'whatsapp.com',
         ]);
     }
 }
