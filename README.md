@@ -17,6 +17,7 @@ O Filament Multi-Tenancy Start Kit é um projeto base desenvolvido para facilita
 -   Cadastro de Empresas: Interface para registro e gerenciamento de empresas com validação integrada.
 -   Validação Multi-Tenancy: Separação lógica e segura dos dados de cada empresa no banco de dados.
 -   Criação de Tenant em painel separado (master)
+-   Existem 2 paineis, o painel Master onde se cria os tenants, e o painel admin que os tenants acessam.
 
 ## Tecnologias Utilizadas
 
